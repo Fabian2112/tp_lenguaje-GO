@@ -1,0 +1,6 @@
+LOG: Registro AX = 0
+LOG: Registro BX = 1
+LOG: Registro AX = 0
+LOG: Registro BX = 1
+LOG: Registro AX = 0
+LOG: Registro BX = 1

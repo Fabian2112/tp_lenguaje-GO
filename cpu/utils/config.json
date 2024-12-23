@@ -1,0 +1,8 @@
+{
+    "ip_memory": "127.0.0.1",
+    "port_memory": 8003,
+    "ip_kernel": "127.0.0.1",
+    "port_kernel": 8001,
+    "port": 8002,
+    "log_level": "DEBUG"
+    }

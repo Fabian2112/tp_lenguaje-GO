@@ -1,0 +1,16 @@
+{
+    "port": 8003,
+    "memory_size": 1024,
+    "instructions_path": "/home/usuario/Escritorio/facultad/Sistemas_operativos/Trabajo/Tp_nuevo/tp-2024-2c-Wrapper-Rangers/memoria/ut",
+    "response_delay": 500,
+    "ip_kernel": "127.0.0.1",
+    "port_kernel": 8001,
+    "ip_cpu": "127.0.0.1",
+    "port_cpu": 8002,
+    "ip_filesystem": "127.0.0.1",
+    "port_filesystem": 8006,
+    "scheme": "FIJAS",
+    "search_algorithm": "FIRST",
+    "partitions": [32,32,32,32,32,32,32,32],
+    "log_level": "TRACE"
+}

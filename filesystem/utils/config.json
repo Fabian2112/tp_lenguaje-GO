@@ -1,0 +1,10 @@
+{
+    "port": 8006,
+    "ip_memory": "127.0.0.1",
+    "port_memory": 8003,
+    "mount_dir": "/home/usuario/Escritorio/facultad/Sistemas_operativos/Trabajo/Tp_nuevo/tp-2024-2c-Wrapper-Rangers/memoria/ut",
+    "block_size": 64,
+    "block_count": 1024,
+    "block_access_delay": 15000,
+    "log_level": "DEBUG"
+}

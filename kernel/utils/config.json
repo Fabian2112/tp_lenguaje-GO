@@ -1,0 +1,11 @@
+{
+    "port" : 8001,
+    "ip_memory": "127.0.0.1",  
+    "port_memory": 8003,
+    "ip_cpu": "127.0.0.1",  
+    "port_cpu": 8002,
+    "sheduler_algorithm": "CMN",
+    "quantum": 850,
+    "log_level": "DEBUG",
+    "multiprogramming": 10
+}
